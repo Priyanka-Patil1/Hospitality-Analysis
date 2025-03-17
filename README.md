@@ -1,25 +1,57 @@
-# Hospitality-Analysis - PowerBI
+# Hospitality-Analysis
 
-## Problem statement
+## 🎯 Problem statement
 
-Atliq Grands is a leading hospitality company that operates several five-star hotels across India. It has been in the industry for two decades, but it faces increasing competition and declining market share and revenue in the luxury/business hotels segment. To regain its competitive edge, the managing director of Atliq Grands wants to leverage “Business and Data Intelligence” to inform strategic decisions. However, the company lacks an internal data analytics team to provide such insights.
+This repository contains an AtliQ Grands Revenue Analysis Report, providing data-driven insights into the performance of a five-star hotel chain across India. The objective is to help AtliQ Grands regain market share and improve revenue by leveraging Business and Data Intelligence.
 
-Therefore, the revenue management team has decided to outsource the data analysis to a third-party service provider who can offer insights from their historical data.
+## 🔍 Key Hospitality Metrics:
 
-## Data Model
+✔ ADR (Average Daily Rate): Revenue earned per room sold.
+
+
+✔ DSRN (Daily Sellable Room Nights): Average number of rooms available for sale per day.
+
+✔ DURN (Daily Utilized Room Nights): Average number of rooms successfully utilized per day.
+
+✔ RevPAR (Revenue Per Available Room): Revenue generated per available room, occupied or not.
+
+✔ Realization %: Percentage of successfully checked-out bookings.
+
+✔ Occupancy %: Ratio of successful bookings to total available rooms.
+
+
+## 💡 Key Learnings from this Dashboard Analysis:
+
+✅ Data visualization simplifies complex insights 
+
+✅ Filters enhance decision-making 
+
+✅ Identifying revenue drivers is crucial 
+
+✅ Customer feedback matters 
+
+## 📸 Data Model
 
 ![image](https://github.com/user-attachments/assets/2dcc312d-d149-4099-aeec-9dd82a0fca76)
 
 
-## Overall Analysis View
+## 📋 Overall Analysis View
+
+ **📊Power BI Dashboard**
 
 ![image](https://github.com/user-attachments/assets/48880e88-d1f4-4dc7-87e0-252025d2a6cf)
 
 
 ![image](https://github.com/user-attachments/assets/29f21f4f-0cd2-4cf9-b9dd-af2dcc061b9a)
 
+**📊Tableau Dashboard**
 
-## Some Important insights from the Dashboard
+![Tableau Picture1](https://github.com/user-attachments/assets/c85b458b-b500-4bd8-9fb0-5ddf81b81968)
+
+![Tableau Picture2](https://github.com/user-attachments/assets/326a895e-344e-456a-9ca6-ff8b66274bc6)
+
+
+## 💡 Some Important insights from the Dashboard
 
 ➽ Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
 
@@ -34,5 +66,17 @@ Therefore, the revenue management team has decided to outsource the data analysi
 ➽ AtliQ lost around 298 Million in cancellation
 
 ➽ Elite type rooms has the most booking and as well higher cancellation rate
+
+## 💡 Recommendations for Business Growth:
+
+📌 Introduce dynamic pricing to increase revenue during high-demand periods.
+
+📌 Improve customer ratings through enhanced services and personalized experiences.
+
+📌 Offer discounts & loyalty programs to reduce cancellations and retain guests.
+
+📌 Optimize direct booking strategies by providing exclusive deals to reduce dependency on third-party platforms.
+
+
 
 
